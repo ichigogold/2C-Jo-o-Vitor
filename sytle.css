@@ -1,0 +1,15 @@
+h1 {color: red;
+}
+h2 {color: rgb(46, 66, 60);
+}
+
+h3 {color: blueviolet;
+}
+
+h1 {text-align: center;
+
+}
+h3 {border-color: purple;
+    border-style: solid;
+    border-width: 5px;
+}
